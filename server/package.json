@@ -1,0 +1,16 @@
+{
+  "name": "zombies",
+  "version": "1.0.0",
+  "description": "projeto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RSFM",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.3",
+    "mysql2": "^3.10.3"
+  }
+}
